@@ -4,3 +4,5 @@ xattr -dr com.apple.quarantine ~/Library/Application\ Support/Adobe/Common/Plug-
 
 rm -rf ~/Library/Caches/CSXS/cep_cache/AEFT_26.3_com.steveschreiner.audiocontrols.panel
 rm -rf ~/Library/Caches/CSXS/cep_cache/AEFT_26.3_com.steveschreiner.timelinecontrols.panel
+
+open ~/Library/Caches/CSXS/cep_cache
